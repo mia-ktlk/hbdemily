@@ -1,5 +1,5 @@
 // Initial message to display
-const messageText = "Happy Birthday to the most amazing, team leader, protector, fashionista, farm girl, dealmaker, badass, negotiator, and friend. We are so grateful to have you in our lives. Love, Mia & Ethan.";
+const messageText = "Happy Birthday to the most beautiful and amazing, visionary, team leader, protector, fashionista, farm girl, producer, dealmaker, badass, negotiator, innovator, mentor, strategist, motivator, trailblazer, mother, and friend. We are so grateful to have you in our lives. Love, Mia & Ethan";
 
 // Split the message into individual words
 const words = messageText.split(' ');
